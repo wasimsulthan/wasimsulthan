@@ -1,0 +1,1 @@
+st.selectbox("Select a watch:", list(watch_images.keys()),0,format_func=lambda x: "")
